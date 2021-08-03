@@ -1,0 +1,18 @@
+﻿  Cart.cpp
+C:\Users\User\Desktop\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Customer.cpp(24): warning C4091: 'inline ': ignored on left of 'Customer::customarInforamtion' when no variable is declared
+  Customer.cpp
+C:\Users\User\Desktop\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Customer.cpp(24): warning C4091: 'inline ': ignored on left of 'Customer::customarInforamtion' when no variable is declared
+  DataStructureProjectOMpMS.cpp
+C:\Users\User\Desktop\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Customer.cpp(24): warning C4091: 'inline ': ignored on left of 'Customer::customarInforamtion' when no variable is declared
+C:\Users\User\Desktop\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(152,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\DataStructureProjectOMpMS\DataStructureProjectOMpMS\DataStructureProjectOMpMS.cpp(80,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Login.cpp
+  Products.cpp
+C:\Users\User\Desktop\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Customer.cpp(24): warning C4091: 'inline ': ignored on left of 'Customer::customarInforamtion' when no variable is declared
+C:\Users\User\Desktop\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(152,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Receipt.cpp
+C:\Users\User\Desktop\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Customer.cpp(24): warning C4091: 'inline ': ignored on left of 'Customer::customarInforamtion' when no variable is declared
+C:\Users\User\Desktop\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(152,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Seller.cpp
+  Generating Code...
+  DataStructureProjectOMpMS.vcxproj -> C:\Users\User\Desktop\DataStructureProjectOMpMS\x64\Debug\DataStructureProjectOMpMS.exe

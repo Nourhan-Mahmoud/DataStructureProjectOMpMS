@@ -1,0 +1,887 @@
+﻿  Cart.cpp
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(80,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(196,29): error C2535: 'void Products::returnAllinfoOfCart(void)': member function already defined or declared
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(139): message : see declaration of 'Products::returnAllinfoOfCart'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,29): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,1): error C3536: 'displayCardit': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,65): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,19): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,1): error C3536: 'pp': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,59): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(144,26): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(144,53): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(145,36): error C2065: 'rec_id': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(182,1): error C2679: binary '<': no operator found which takes a right-hand operand of type 'unsigned int' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(156,21): message : could be 'bool std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::operator <(const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &) noexcept const'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(182,1): message : while trying to match the argument list '(std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>, unsigned int)'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(185,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,29): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,1): error C3536: 'displayCardit': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,64): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(200,1): error C2679: binary '<': no operator found which takes a right-hand operand of type 'unsigned int' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(156,21): message : could be 'bool std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::operator <(const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &) noexcept const'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(200,1): message : while trying to match the argument list '(std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>, unsigned int)'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(201,26): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(201,53): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(202,36): error C2065: 'rec_id': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11,14): error C2011: 'Seller': 'class' type redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(14,1): error C2011: 'prdt': 'struct' type redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(13): message : see declaration of 'prdt'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(29,16): error C2011: 'Products': 'class' type redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(29): message : see declaration of 'Products'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): fatal error C1003: error count exceeds 100; stopping compilation
+  Customer.cpp
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(80,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(196,29): error C2535: 'void Products::returnAllinfoOfCart(void)': member function already defined or declared
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(139): message : see declaration of 'Products::returnAllinfoOfCart'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,29): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,1): error C3536: 'displayCardit': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,65): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,19): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,1): error C3536: 'pp': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,59): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(144,26): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(144,53): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(145,36): error C2065: 'rec_id': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(182,1): error C2679: binary '<': no operator found which takes a right-hand operand of type 'unsigned int' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(156,21): message : could be 'bool std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::operator <(const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &) noexcept const'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(182,1): message : while trying to match the argument list '(std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>, unsigned int)'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(185,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,29): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,1): error C3536: 'displayCardit': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,64): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(200,1): error C2679: binary '<': no operator found which takes a right-hand operand of type 'unsigned int' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(156,21): message : could be 'bool std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::operator <(const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &) noexcept const'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(200,1): message : while trying to match the argument list '(std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>, unsigned int)'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(201,26): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(201,53): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(202,36): error C2065: 'rec_id': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11,14): error C2011: 'Seller': 'class' type redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(14,1): error C2011: 'prdt': 'struct' type redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(13): message : see declaration of 'prdt'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(29,16): error C2011: 'Products': 'class' type redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(29): message : see declaration of 'Products'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): fatal error C1003: error count exceeds 100; stopping compilation
+  DataStructureProjectOMpMS.cpp
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(80,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(196,29): error C2535: 'void Products::returnAllinfoOfCart(void)': member function already defined or declared
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(139): message : see declaration of 'Products::returnAllinfoOfCart'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,29): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,1): error C3536: 'displayCardit': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,65): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,19): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,1): error C3536: 'pp': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,59): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(144,26): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(144,53): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(145,36): error C2065: 'rec_id': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(182,1): error C2679: binary '<': no operator found which takes a right-hand operand of type 'unsigned int' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(156,21): message : could be 'bool std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::operator <(const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &) noexcept const'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(182,1): message : while trying to match the argument list '(std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>, unsigned int)'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(185,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,29): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,1): error C3536: 'displayCardit': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,64): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(200,1): error C2679: binary '<': no operator found which takes a right-hand operand of type 'unsigned int' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(156,21): message : could be 'bool std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::operator <(const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &) noexcept const'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(200,1): message : while trying to match the argument list '(std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>, unsigned int)'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(201,26): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(201,53): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(202,36): error C2065: 'rec_id': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11,14): error C2011: 'Seller': 'class' type redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(14,1): error C2011: 'prdt': 'struct' type redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(13): message : see declaration of 'prdt'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(29,16): error C2011: 'Products': 'class' type redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(29): message : see declaration of 'Products'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): fatal error C1003: error count exceeds 100; stopping compilation
+  Login.cpp
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(80,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(196,29): error C2535: 'void Products::returnAllinfoOfCart(void)': member function already defined or declared
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(139): message : see declaration of 'Products::returnAllinfoOfCart'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,29): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,1): error C3536: 'displayCardit': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,65): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,19): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,1): error C3536: 'pp': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,59): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(144,26): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(144,53): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(145,36): error C2065: 'rec_id': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(182,1): error C2679: binary '<': no operator found which takes a right-hand operand of type 'unsigned int' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(156,21): message : could be 'bool std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::operator <(const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &) noexcept const'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(182,1): message : while trying to match the argument list '(std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>, unsigned int)'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(185,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,29): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,1): error C3536: 'displayCardit': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,64): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(200,1): error C2679: binary '<': no operator found which takes a right-hand operand of type 'unsigned int' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(156,21): message : could be 'bool std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::operator <(const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &) noexcept const'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(200,1): message : while trying to match the argument list '(std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>, unsigned int)'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(201,26): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(201,53): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(202,36): error C2065: 'rec_id': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11,14): error C2011: 'Seller': 'class' type redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(14,1): error C2011: 'prdt': 'struct' type redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(13): message : see declaration of 'prdt'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(29,16): error C2011: 'Products': 'class' type redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(29): message : see declaration of 'Products'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2086: 'int login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27,20): error C2086: 'std::vector<prdt,std::allocator<prdt>> listOfproducts': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(27): message : see declaration of 'listOfproducts'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2086: 'Seller seller': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23): message : see declaration of 'seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(23,15): error C2027: use of undefined type 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(11): message : see declaration of 'Seller'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,8): error C2086: 'int Customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'Customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2086: 'int customer': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24): message : see declaration of 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,8): error C2086: 'int Login': redefinition
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25): message : see declaration of 'Login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): fatal error C1003: error count exceeds 100; stopping compilation
+  Products.cpp
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Seller.cpp(80,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(24,17): error C2146: syntax error: missing ';' before identifier 'customer'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(25,14): error C2146: syntax error: missing ';' before identifier 'login'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(196,29): error C2535: 'void Products::returnAllinfoOfCart(void)': member function already defined or declared
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(139): message : see declaration of 'Products::returnAllinfoOfCart'
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,29): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,1): error C3536: 'displayCardit': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(142,65): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,19): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,1): error C3536: 'pp': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(143,59): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(144,26): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(144,53): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(145,36): error C2065: 'rec_id': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(182,1): error C2679: binary '<': no operator found which takes a right-hand operand of type 'unsigned int' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(156,21): message : could be 'bool std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::operator <(const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &) noexcept const'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(182,1): message : while trying to match the argument list '(std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>, unsigned int)'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(185,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,29): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,1): error C3536: 'displayCardit': cannot be used before it is initialized
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(199,64): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(200,1): error C2679: binary '<': no operator found which takes a right-hand operand of type 'unsigned int' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(156,21): message : could be 'bool std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::operator <(const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &) noexcept const'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(200,1): message : while trying to match the argument list '(std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>, unsigned int)'
+          with
+          [
+              _Ty=prdt
+          ]
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(201,26): error C2065: 'listOfIds': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(201,53): error C2065: 'products': undeclared identifier
+C:\Users\User\Desktop\dsss\DataStructureProjectOMpMS\DataStructureProjectOMpMS\Products.cpp(202,36): error C2065: 'rec_id': undeclared identifier
+  Generating Code...
